@@ -1,3 +1,3 @@
 # Firmware Updates
 
-Check AltraBits lates firmware release.
+Check AltraBits latest firmware release.
