@@ -1,4 +1,8 @@
-# Learn and Build
+# AltraBits documents
 
-  Connect and activate your device. 
-  [Open the Wi-Fi Activation Guide](./Guide/WiFi_Activation.md)
+Here you can find AltraBits available documents.
+
+## Guide
+- **README**: List of available guides. [Link](./Guide/WiFi_Activation.md)
+- **WiFi_Activation**: Connect and activate your device. [Link](./Guide/WiFi_Activation.md)
+
