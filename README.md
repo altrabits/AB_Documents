@@ -13,4 +13,5 @@ Here you can find AltraBits available documents.
 - **About**: [Link](./SiteInfo/About.md)
 - **PrivacyPolicy**: [Link](./SiteInfo/PrivacyPolicy.md)
 - **TermsOfUse**: [Link](./SiteInfo/TermsOfUse.md)
+- **TermsAndConditionsAccount**: [Link](./SiteInfo/TermsAndConditionsAccount.md)
 
