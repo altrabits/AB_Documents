@@ -9,3 +9,6 @@ Here you can find AltraBits available documents.
 ## Firmware
 - **README**: List release. [Link](./Firmware/README.md)
 
+## SiteInfo
+- **About**: [Link](./SiteInfo/About.md)
+
