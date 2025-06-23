@@ -17,7 +17,7 @@ Follow these steps to activate your device:
 ### Step 4: Sign in
 - On your first visit:
   - Username: `admin`
-  - Password: `altrabits`
+  - Password: `AltraBits`
 - Otherwise, log in with your credentials.
 
 ### Step 5: Connect to your home Wi-Fi
