@@ -1,1 +1,1 @@
-![Comparison](product_comparison.pdf)
+![Comparison](product_comparison.png)
