@@ -1,0 +1,1 @@
+![Comparison](product_comparison.pdf)
