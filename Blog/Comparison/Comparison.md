@@ -1,5 +1,3 @@
-## Explore our side-by-side comparison
+## Explore our Broadcasters
 
-[//]: # (![Comparison]&#40;product_comparison.png&#41;)
-
-<img src="product_comparison.png" alt="comparison" style="width:75%"/>
+![Comparison](product_comparison.png)
