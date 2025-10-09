@@ -1,1 +1,2 @@
-![Comparison](product_comparison.png)
+
+<img src="product_comparison.png" />
