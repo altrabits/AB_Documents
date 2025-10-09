@@ -1,2 +1,2 @@
 
-<img src="product_comparison.png" />
+![Comparison](product_comparison.png)
