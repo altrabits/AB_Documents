@@ -11,3 +11,6 @@ Get a quick glimpse of the standout features and real-world uses of our broadcas
 Find out how each one can help you create, connect, and broadcast like a pro.
 
 See the full breakdown → [Product features](Feature/Feature.md)
+
+### Buy one our subscription
+Expand the possibility to share announcements. 
