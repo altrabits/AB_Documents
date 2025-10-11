@@ -1,4 +1,4 @@
-### Online buols 2.2.1 - Seville 
+### Online Build v2.2.1 - Seville 
 
 Online, our latest GUI build _2.2.1 - Seville_ that enables announcement upload. We offer **5 MB free storage space** per account to allow our customers to test the beta playback announcement schedule. Please keep in contact with us using the [contact form](https://altrabits.com/contact-us) for your feedback and requests.
 
