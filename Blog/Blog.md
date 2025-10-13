@@ -21,5 +21,5 @@ Expand the possibility to share announcements.
 
 ### Discover how to add an announcement
 
-Watch the glimpse of how adding an announcement works
-[Add announcement](Announcement/Announcement.md)
+Watch the glimpse of how adding an announcement works.
+[Watch here](Announcement/Announcement.md)
