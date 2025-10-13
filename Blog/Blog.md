@@ -18,3 +18,8 @@ See the full breakdown → [Product features](Feature/Feature.md)
 
 ### Buy one our subscription
 Expand the possibility to share announcements. 
+
+### Discover how to add an announcement
+
+Watch the glimpse of how adding an announcement works
+[Add announcement](Announcement/Announcement.md)
