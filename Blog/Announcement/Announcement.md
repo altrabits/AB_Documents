@@ -1,5 +1,5 @@
 # How to add an announcement
 
-<video src="https://youtu.be/wa4o98a3nAQ?si=XSIsIAvJF0dP9SCd" />
+<video src="https://www.youtube.com/watch?v=wa4o98a3nAQ" />
 
 
