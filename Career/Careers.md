@@ -6,3 +6,4 @@ feel free to send us an open application at job[at]altrabits.com!
 
 ### Jobs
 - [Embedded System Engineer](./Developer.md)
+- [Web Developer](WebDev.md)
